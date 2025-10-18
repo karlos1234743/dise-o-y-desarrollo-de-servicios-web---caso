@@ -1,0 +1,17 @@
+INSTRUCCIONES PARA VERSIONAMIENTO (REQUERIDO POR LA EVIDENCIA)
+
+1) Inicializar git en la carpeta:
+   git init
+
+2) Crear archivo README.md (ya incluido)
+
+3) Añadir y confirmar:
+   git add .
+   git commit -m "Evidencia GA7-220501096-AA5-EV01 - servicio auth"
+
+4) Crear repositorio remoto (por ejemplo en GitHub) y enlazar:
+   git remote add origin https://github.com/<tu-usuario>/<tu-repo>.git
+   git branch -M main
+   git push -u origin main
+
+5) Copiar el enlace del repositorio en un archivo llamado REPO_LINK.txt y agregarlo a la carpeta comprimida que vas a entregar.

@@ -1,0 +1,20 @@
+{
+  "name": "auth-service-evidence",
+  "version": "1.0.0",
+  "description": "Servicio web simple para registro e inicio de sesión - Evidencia GA7-220501096-AA5-EV01",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "author": "Carlos (entrega de evidencia)",
+  "license": "MIT"
+}
